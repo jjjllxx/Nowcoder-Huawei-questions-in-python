@@ -1,12 +1,3 @@
-"""
-File: HJ10.py
-Author: Jin Lexuan
-E-mail: jlx321@126.com
-Time: 2021-07-29 23:29:51
-Function:
-
-
-"""
 str1 = input()
 list1 = []
 for i in str1:
