@@ -1,12 +1,3 @@
-"""
-File: HJ15.py
-Author: Jin Lexuan
-E-mail: jlx321@126.com
-Time: 2022-01-13 00:55:43
-Function:
-
-
-"""
 while True:
     try:
         num = int(input())
