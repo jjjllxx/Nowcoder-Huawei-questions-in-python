@@ -1,14 +1,3 @@
-"""
-File: HJ29.py
-Author: Jin Lexuan
-E-mail: jlx321@126.com
-Time: 2022-01-13 01:09:03
-Function:
-
-
-"""
-
-
 def coding(str_to_code):
     str_after_coding = ''
     for i in str_to_code:
