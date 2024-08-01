@@ -1,13 +1,3 @@
-"""
-File: HJ31.py
-Author: Jin Lexuan
-E-mail: jlx321@126.com
-Time: 2022-01-13 01:10:21
-Function:
-
-
-"""
-
 while True:
     try:
         string0 = input()
