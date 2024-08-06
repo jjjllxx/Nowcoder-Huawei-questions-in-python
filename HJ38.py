@@ -1,12 +1,3 @@
-"""
-File: HJ38.py
-Author: Jin Lexuan
-E-mail: jlx321@126.com
-Time: 2022-01-13 01:10:58
-Function:
-
-
-"""
 while True:
     try:
         distance = int(input())
