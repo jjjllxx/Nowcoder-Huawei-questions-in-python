@@ -1,12 +1,3 @@
-"""
-File: HJ45.py
-Author: Jin Lexuan
-E-mail: jlx321@126.com
-Time: 2021-07-31 09:48:43
-Function:
-
-
-"""
 n = int(input())
 value_list = []
 for i in range(n):
