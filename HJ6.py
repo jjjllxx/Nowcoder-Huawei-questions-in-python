@@ -1,13 +1,3 @@
-"""
-File: HJ6.py
-Author: Jin Lexuan
-E-mail: jlx321@126.com
-Time: 2022-01-13 00:54:12
-Function:
-
-
-"""
-
 while True:
     try:
         num = int(input())
@@ -28,7 +18,7 @@ while True:
     except:
         break
 
-# out of time, take care of big factor number
+# The following methods exceeds the time limit, should take care of big factor number.
 # while True:
 #     try:
 #         num = int(input())
