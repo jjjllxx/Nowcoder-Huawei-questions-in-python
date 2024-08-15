@@ -1,21 +1,9 @@
-"""
-File: HJ60.py
-Author: Jin Lexuan
-E-mail: jlx321@126.com
-Time: 2021-07-30 22:41:31
-Function:
-
-
-"""
-
-
 def judgePrimeNumber(n):
     m = 0
     for item in range(2, int(n ** 0.5) + 1):
         if n % item == 0:
             return 0
     return 1
-
 
 while True:
     try:
