@@ -1,12 +1,3 @@
-"""
-File: HJ75.py
-Author: Jin Lexuan
-E-mail: jlx321@126.com
-Time: 2021-07-29 17:04:17
-Function:
-
-
-"""
 string1 = input()
 string2 = input()
 num, num_max = 0, 0
