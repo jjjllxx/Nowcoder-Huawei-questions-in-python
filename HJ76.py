@@ -1,12 +1,3 @@
-"""
-File: HJ76.py
-Author: Jin Lexuan
-E-mail: jlx321@126.com
-Time: 2021-07-28 16:20:21
-Function:
-
-
-"""
 num = int(input())
 string = ''
 if num <= 100:
