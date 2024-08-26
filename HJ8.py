@@ -1,13 +1,3 @@
-"""
-File: HJ8.py
-Author: Jin Lexuan
-E-mail: jlx321@126.com
-Time: 2022-01-13 00:54:27
-Function:
-
-
-"""
-
 while True:
     try:
         n = int(input())
